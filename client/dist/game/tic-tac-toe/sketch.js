@@ -15,7 +15,7 @@ let h, w;
 let available;
 
 function setup() {
-    createCanvas(500, 500);
+    createCanvas(500, 0);
     size = initSize;
     init();
 }
